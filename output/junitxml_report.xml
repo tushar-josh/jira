@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="0.020" timestamp="2021-08-25T16:51:18.707524" hostname="JTG-D71"><testcase classname="zephyr.TestClass" name="test_method_3_TEST1_T1" time="0.001" /></testsuite></testsuites>
